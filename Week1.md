@@ -1,5 +1,5 @@
 # Bi622  
-07/19/2021
+### 07/19/2021
 ### Genomics History
 
 1) Timeline:
@@ -44,9 +44,28 @@ Codons are a multiple of 3
 ---
 ### Sanger Sequencing
 
-![](Gel_Electrophoresis_andger.png) 
+
+![](Gel_Electrophoresis_andger.png)
+
+
 
 > ##### Sequencing by termination
 
 ---
+### 07/20/2021
+### 
+![](Importance_of_2OH.PNG)
+
+#
+![](mRNA_maturations.PNG)
+#
+
+<p align="center">
+<img src="Cech.PNG" />
+
+</p>
+#
+<p align="center">
+<img src="Altman.PNG" />
+</p>
 
