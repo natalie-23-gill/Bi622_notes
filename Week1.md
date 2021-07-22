@@ -45,7 +45,7 @@ Codons are a multiple of 3
 ### Sanger Sequencing
 
 
-![](Gel_Electrophoresis_andger.png)
+![](Figures/Gel_Electrophoresis_andger.png)
 
 
 
@@ -54,18 +54,73 @@ Codons are a multiple of 3
 ---
 ### 07/20/2021
 ### 
-![](Importance_of_2OH.PNG)
+![](Figures/Importance_of_2OH.PNG)
 
 #
-![](mRNA_maturations.PNG)
+![](Figures/mRNA_maturations.PNG)
 #
 
 <p align="center">
-<img src="Cech.PNG" />
+<img src="Figures/Cech.PNG" />
 
-</p>
 #
-<p align="center">
-<img src="Altman.PNG" />
 </p>
+
+<p align="center">
+<img src="Figures/Altman.PNG" />
+</p>
+
+#
+### 07/22/2021
+  
+</br>  
+
+### Overview of Sequencing Platforms
+
+</br>
+
+1) Southern blotting:  
+</t> a) 1st method to detect specific DNA seq  
+</t> b) After gel electrophoresis DNA is transferred to nitrocellulose  
+
+2) Microarrays:  
+</t> a) Probes attached to glass or plastic  
+</t> b) Nucleic acid sample is labelled with a flourecent molecule  
+</t> c) Relies on perfect complimentary base pairing to detect target sequence  
+
+3) NGS:  
+</t> a) High throughput and unbiased compared to microarrays  
+</t> b) Most require amplification (PCR errors)  
+</t> c) Most common methods use short read sequencing  
+
+4) Roche:  
+</t> a) Out of commission  
+</t> b) Uses pyrosequencing  
+
+5) Semiconductor sequencing (Ion Torrent):  
+
+![](Figures/Ion_torrent.PNG)
+#
+
+6) Oxford Nanopore:  
+</t> a) Measures changes in current
+
+7) MGI:  
+</t> a) DNA nanoballs
+
+![](Figures/MGI.jpg)
+#
+
+
+8) Illumina:  
+</t> a) Sequencing by synthesis
+
+</br>
+
+</br>
+
+</br>
+
+
+
 
