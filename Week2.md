@@ -11,14 +11,14 @@
 1) Fragment analyzer:  
 
 
-![](Figures/FA_uses.png)
+![](Figures/FA_uses.PNG)
 
 #
 
-![](Figures/Fragment_size.png)
+![](Figures/Fragment_size.PNG)
 
 #
 
-![](Figures/RNA_prep.png)
+![](Figures/RNA_prep.PNG)
 
 #

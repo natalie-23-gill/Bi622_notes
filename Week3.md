@@ -7,7 +7,7 @@
 
 #
 
-![](Figures/10X_genomics.png)  
+![](Figures/10X_genomics.PNG)  
 
 #
 
@@ -18,7 +18,7 @@
     * Multiple passes allows for higher quality (&#8805; Q30 ~ 99.99% accuracy)  
 #
 
-![](Figures/circ_con.png)  
+![](Figures/circ_con.PNG)  
 
 #
 2) Why is undamaged DNA important?  
