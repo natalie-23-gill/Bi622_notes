@@ -115,12 +115,3 @@ Codons are a multiple of 3
 8) Illumina:  
 </t> a) Sequencing by synthesis
 
-</br>
-
-</br>
-
-</br>
-
-
-
-
