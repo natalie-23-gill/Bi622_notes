@@ -3,18 +3,24 @@
 ## 08/04/2021  
 
 1) Applications using HMW DNA  
-* 10X Genomics - WG linked reads
+* 10X Genomics - WG linked reads  
+
+#
 
 ![](Figures/10X_genomics.png)  
+
+#
 
 * Pac-Bio  
     * Circular Consensus Sequencing (same as HiFi)
     * Each pass is called a subread
     * The full sequence of all subreads and adapters is called a polymerase read
     * Multiple passes allows for higher quality (&#8805; Q30 ~ 99.99% accuracy)  
+#
 
-![](Figures/circ_con.png) 
+![](Figures/circ_con.png)  
 
+#
 2) Why is undamaged DNA important?  
 * Repetitive content requires large reads  
 * Longest insert possible (&#62; 30-40-50+ kb)  
@@ -53,7 +59,8 @@
 
 8) DNA damage can be corrected to some degree during the preperation steps  
 
-9) 
+9) Circulomics Nanobind Extraction
+
 
 
 
